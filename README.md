@@ -1,6 +1,6 @@
-# Forecasting Forecasting COVID-19 
+# Forecasting COVID-19 with Johns Hopkins CSSE
 
-This tool is based on a shiny app for forecast COVID-19 using Autoregressive integrated moving average algorithm (ARIMA). Data used for this come from Data Repository by Johns Hopkins CSSE.
+This project is based on a shiny app for forecast COVID-19 using the Autoregressive integrated moving average algorithm (ARIMA). Data used for do this come from the Data Repository by Johns Hopkins CSSE.
 
 Please visit:
 
